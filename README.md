@@ -78,6 +78,26 @@ The UI is defined using the Slint language:
  2. Interact with the calculator using the UI.
 --- 
 ### Preview:
+![Example Image](https://github.com/Adez017/Calculator-using-Rust-with-Slint/blob/main/Screenshot%202024-12-10%20212413.png)
+
+---
+
+### Future Improvements
+
+- Add advanced operations like square root and power.
+
+- Implement history tracking for past calculations.
+
+- Enhance UI with additional themes and customizations.
+
+---
+
+### Contributing
+
+Contributions are welcome! Please fork the repository and submit a pull request.
+
+
+
 
 
 
