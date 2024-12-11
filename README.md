@@ -63,7 +63,7 @@ The UI is defined using the Slint language:
 ### Installation
 1. Clone the repository:
    ``` bash
-   git clone <https://github.com/Adez017/Calculator-using-Rust-with-Slin>
+   git clone https://github.com/Adez017/Calculator-using-Rust-with-Slin
     cd <repository-folder>
    ```
 2. Build the project:
